@@ -1,0 +1,25 @@
+<!-- Footer -->
+<footer style="background-color:#1a1a1a; color:white; padding:30px 0; text-align:center; font-family:Arial, sans-serif;">
+  <!-- منوها -->
+  <div style="margin-bottom:15px;">
+    <a href="#events" style="color:white; margin:0 10px; text-decoration:none;">Events</a>
+    <a href="#posts" style="color:white; margin:0 10px; text-decoration:none;">Posts</a>
+    <a href="#notes" style="color:white; margin:0 10px; text-decoration:none;">Notes</a>
+    <a href="#books" style="color:white; margin:0 10px; text-decoration:none;">Books</a>
+    <a href="#interviews" style="color:white; margin:0 10px; text-decoration:none;">Interviews</a>
+    <a href="#research" style="color:white; margin:0 10px; text-decoration:none;">Research</a>
+    <a href="#art" style="color:white; margin:0 10px; text-decoration:none;">Artworks</a>
+  </div>
+
+  <!-- شبکه‌های اجتماعی -->
+  <div style="margin-bottom:15px;">
+    <a href="https://www.instagram.com/username" style="color:white; margin:0 5px; text-decoration:none;">Instagram</a>
+    <a href="https://www.twitter.com/username" style="color:white; margin:0 5px; text-decoration:none;">Twitter</a>
+    <a href="https://www.linkedin.com/in/username" style="color:white; margin:0 5px; text-decoration:none;">LinkedIn</a>
+  </div>
+
+  <!-- کپی‌رایت -->
+  <div style="font-size:14px; color:#ccc;">
+    &copy; 2025 Zohre Enayati. All Rights Reserved.
+  </div>
+</footer>
